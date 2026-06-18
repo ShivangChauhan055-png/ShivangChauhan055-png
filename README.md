@@ -26,7 +26,7 @@ Full Stack Developer | Competitive Programmer | Open Source Contributor
 
 ---
 
-## 🚀 About Me
+
 
 ##  About Me
 
@@ -149,16 +149,18 @@ Full Stack Developer | Competitive Programmer | Open Source Contributor
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivangChauhan055-png&theme=tokyonight" />
 </p>
 
-## 📫 Connect With Me
+<hr>
+
+<h3 align="center">💭 Daily Reminder</h3>
 
 <p align="center">
+<i>
+"Consistency beats talent when talent doesn't work hard."
+</i>
+<br><br>
+🚀 <b>Building. Learning. Improving. Repeat.</b>
+</p>
 
-<a href="https://www.linkedin.com/in/shivang-chauhan-b1897a324">
-<img src="https://img.shields.io/badge/LinkedIn-Shivang%20Chauhan-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shivangchauhan055@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-shivangchauhan055%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
