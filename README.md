@@ -1,16 +1,32 @@
 <h1 align="center">Hi 👋, I'm Shivang Chauhan</h1>
 
 <h3 align="center">
-Competitive Programmer | Open Source Contributor | Aspiring Software Engineer
+Full Stack Developer | Competitive Programmer | Open Source Contributor
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivangChauhan055-png&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ShivangChauhan055-png&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Java+DSA+Enthusiast;Open+Source+Contributor;Full+Stack+Development+Learner;Future+Software+Engineer">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Java+DSA+Enthusiast;Open+Source+Contributor;Full+Stack+Developer"/>
 </p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shivang-chauhan-b1897a324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shivangchauhan055@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 About Me
 
 ##  About Me
 
