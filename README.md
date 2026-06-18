@@ -132,3 +132,17 @@ Competitive Programmer | Open Source Contributor | Aspiring Software Engineer
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivangChauhan055-png&theme=tokyonight" />
 </p>
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shivang-chauhan-b1897a324">
+<img src="https://img.shields.io/badge/LinkedIn-Shivang%20Chauhan-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shivangchauhan055@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-shivangchauhan055%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
