@@ -28,7 +28,8 @@ Competitive Programmer | Open Source Contributor | Aspiring Software Engineer
 
 🎯 Goal: Become a Software Engineer at a Top Product-Based Company
 
-## 🛠️ Tech Stack
+
+##  Tech Stack
 
 <div align="center">
 
