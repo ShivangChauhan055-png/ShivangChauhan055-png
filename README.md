@@ -9,5 +9,5 @@ Full Stack Developer | Competitive Programmer | Open Source Contributor | Aspiri
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Java+DSA+Enthusiast;Open+Source+Contributor;Full+Stack+Development+Learner;Future+Software+Engineer+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Java+DSA+Enthusiast;Open+Source+Contributor;Full+Stack+Developer;Future+Software+Engineer">
 </p>
