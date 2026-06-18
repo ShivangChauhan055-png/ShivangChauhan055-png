@@ -107,3 +107,14 @@ Competitive Programmer | Open Source Contributor | Aspiring Software Engineer
 </a>
 
 </div>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShivangChauhan055-png&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangChauhan055-png&theme=tokyonight&hide_border=true"/>
+
+</div>
