@@ -154,7 +154,7 @@ Full Stack Developer | Competitive Programmer | Open Source Contributor
 <h3 align="center">⚡ Daily Reminder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Consistency+beats+talent+when+talent+doesn't+work+hard." />
+<i>"Consistency beats talent when talent doesn't work hard."</i>
 </p>
 
 <p align="center">
