@@ -130,5 +130,5 @@ Competitive Programmer | Open Source Contributor | Aspiring Software Engineer
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivangChauhan055-png&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivangChauhan055-png&theme=tokyonight" />
 </p>
