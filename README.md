@@ -109,12 +109,26 @@ Competitive Programmer | Open Source Contributor | Aspiring Software Engineer
 </div>
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivangChauhan055-png&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShivangChauhan055-png&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangChauhan055-png&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangChauhan055-png&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangChauhan055-png&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivangChauhan055-png&theme=tokyo-night&hide_border=true" />
+</p>
