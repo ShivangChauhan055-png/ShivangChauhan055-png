@@ -65,3 +65,33 @@ Competitive Programmer | Open Source Contributor | Aspiring Software Engineer
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
+
+## 🏆 Coding Profiles
+
+<div align="center">
+
+<img height="180em" src="https://leetcard.jacoblin.cool/Shivang055?theme=dark&font=Karma&ext=heatmap"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Shivang_Chauhan&theme=dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.geeksforgeeks.org/user/shivang055/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-shivang055-green?style=for-the-badge"/>
+</a>
+
+<a href="https://www.codechef.com/users/shivang011">
+<img src="https://img.shields.io/badge/CodeChef-shivang011-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+</div>
