@@ -36,7 +36,7 @@ Full Stack Developer | Competitive Programmer | Open Source Contributor
 
 🔥 Consistently practicing DSA and Competitive Programming
 
-🌱 Currently learning Full Stack Development
+🌱 Currently learning MERN Stack
 
 🏆 Summer Intern at IIT Ropar VLED Lab
 
