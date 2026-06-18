@@ -68,49 +68,24 @@ Competitive Programmer | Open Source Contributor | Aspiring Software Engineer
 
 ## 🏆 Coding Profiles
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+<img height="180em" src="https://leetcard.jacoblin.cool/Shivang055?theme=dark&font=Karma&ext=heatmap"/>
 
-###  LeetCode
+<img height="180em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Shivang_Chauhan&theme=dark"/>
 
-<img src="https://leetcard.jacoblin.cool/Shivang055?theme=dark&font=Karma&ext=heatmap"/>
+</div>
 
-</td>
+<br>
 
-<td width="50%">
-
-###  GeeksforGeeks
+<div align="center">
 
 <a href="https://www.geeksforgeeks.org/user/shivang055/">
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shivang055"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-shivang055-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-###  Codeforces
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shivang_Chauhan&theme=dark"/>
-
-</td>
-
-<td width="50%">
-
-###  CodeChef
 
 <a href="https://www.codechef.com/users/shivang011">
-<img src="https://img.shields.io/badge/CodeChef-shivang011-brown?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-shivang011-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-</td>
-
-</tr>
-
-</table>
+</div>
