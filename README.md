@@ -5,7 +5,7 @@ Full Stack Developer | Competitive Programmer | Open Source Contributor
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivangChauhan055-png&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ShivangChauhan055-png&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
