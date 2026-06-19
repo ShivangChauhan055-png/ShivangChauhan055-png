@@ -5,7 +5,7 @@ Full Stack Developer | Competitive Programmer | Open Source Contributor
 </h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ShivangChauhan055-png&icon=5&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=ShivangChauhan055-png&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
