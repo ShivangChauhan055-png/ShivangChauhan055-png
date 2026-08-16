@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivang Chauhan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shivang Chauhan</h1>
 
 <h3 align="center">
 Full Stack Developer | Competitive Programmer | Open Source Contributor
@@ -161,4 +161,4 @@ Full Stack Developer | Competitive Programmer | Open Source Contributor
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
-</p>
+</p> -->
