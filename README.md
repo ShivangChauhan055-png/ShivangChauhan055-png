@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivang Chauhan</h1>
 
 <h3 align="center">
-Full Stack Developer | Competitive Programmer | Open Source Contributor
+Competitive Programmer | Full Stack Developer | Open Source Contributor
 </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@ Full Stack Developer | Competitive Programmer | Open Source Contributor
 
 🌱 Currently learning MERN Stack
 
-🏆 Summer Intern at IIT Ropar VLED Lab
+🏆 Ex-Intern at IIT Ropar VLED Lab
 
 🤝 Open Source Contributor
 
