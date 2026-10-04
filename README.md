@@ -26,22 +26,15 @@ Competitive Programmer | Full Stack Developer | Open Source Contributor
 
 ---
 
-##  **About Me**
+## About Me
 
-🎓 B.Tech CSE Student at GLA University, Mathura
-
-💻 Passionate about Software Development and Problem Solving
-
-🔥 Consistently practicing DSA and Competitive Programming
-
-🌱 Currently learning MERN Stack
-
-🏆 Ex-Intern at IIT Ropar VLED Lab
-
-🤝 Open Source Contributor
-
-🎯 Goal: Become a Software Engineer at a Top Product-Based Company
-
+- B.Tech CSE student at GLA University, Mathura
+- Passionate about Software Development, Data Structures, and Problem Solving
+- Actively practicing Data Structures & Algorithms and Competitive Programming
+- Currently learning and building projects with the MERN Stack
+- Former Summer Intern at VLED Lab, IIT Ropar
+- Open Source Contributor
+- Aspiring Software Engineer at a leading product-based company
 
 ##  Tech Stack
 
@@ -89,7 +82,7 @@ Competitive Programmer | Full Stack Developer | Open Source Contributor
 
 <td align="center">
 
-### 💛 LeetCode
+### LeetCode ❤️
 
 <a href="https://leetcode.com/u/Shivang055/" target="_blank">
 <img src="https://leetcard.jacoblin.cool/Shivang055?theme=dark&font=Karma&ext=heatmap"/>
@@ -101,7 +94,7 @@ Competitive Programmer | Full Stack Developer | Open Source Contributor
 
 <td align="center">
 
-### 💀 Codeforces
+### Codeforces 🖤
 
 <a href="https://codeforces.com/profile/Shivang_Chauhan" target="_blank">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shivang_Chauhan&theme=dark"/>
