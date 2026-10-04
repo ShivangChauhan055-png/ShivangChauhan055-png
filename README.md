@@ -91,7 +91,9 @@ Competitive Programmer | Full Stack Developer | Open Source Contributor
 
 ### 💛 LeetCode
 
+<a href="https://leetcode.com/u/Shivang055/" target="_blank">
 <img src="https://leetcard.jacoblin.cool/Shivang055?theme=dark&font=Karma&ext=heatmap"/>
+</a>
 
 </td>
 
@@ -101,7 +103,9 @@ Competitive Programmer | Full Stack Developer | Open Source Contributor
 
 ### 💀 Codeforces
 
+<a href="https://codeforces.com/profile/Shivang_Chauhan" target="_blank">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shivang_Chauhan&theme=dark"/>
+</a>
 
 </td>
 
@@ -110,13 +114,13 @@ Competitive Programmer | Full Stack Developer | Open Source Contributor
 
 <br>
 
-<a href="https://www.geeksforgeeks.org/user/shivang055/">
+<a href="https://www.geeksforgeeks.org/user/shivang055/" target="_blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-shivang055-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.codechef.com/users/shivang011">
+<a href="https://www.codechef.com/users/shivang011" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-shivang011-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
